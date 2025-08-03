@@ -1,0 +1,4 @@
+---
+layout: vanity
+path: nala
+---
